@@ -1,9 +1,9 @@
-# W266 Natural Language Processing - Final Project
-
 ## Enhancing Pharmacovigilance with Drug Reviews and Social Media
 
 ### Brent Biseda and Katie Mo
 ### Spring 2020
+
+This project was completed for the class MIDS W266 Natural Language Processing with Deep Learning.
 
 **Abstract**
 
